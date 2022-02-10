@@ -37,12 +37,15 @@ img {
     margin: 20px 0;
 }
 
+.qrCard-text p {
+    padding-inline: 1 rem;
+}
+
 .qrCard {
     background-color: #fff;
     border-radius: 20px;
     width: 90%;
     max-width: 320px;
-    margin: 0 auto;
     display: flex;
     flex-direction: column;
     padding: 16px;
